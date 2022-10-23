@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "78529810831",
+    "firebase_url": "https://systemparking-7c9e8-default-rtdb.firebaseio.com",
+    "project_id": "systemparking-7c9e8",
+    "storage_bucket": "systemparking-7c9e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78529810831:android:6f98ec9d50c160a840bbfa",
+        "android_client_info": {
+          "package_name": "com.example.systemparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78529810831-l41nbjdu2s7t6ditfaanmcf9f30vcg4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.systemparking",
+            "certificate_hash": "a553c3628fe6ba669468baab8eb651afef46b601"
+          }
+        },
+        {
+          "client_id": "78529810831-58shoroj487vum5oa0lgb8qa2fhr45q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGM1fF07l6ECiBs1BRwh-tvhOTrr68BEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78529810831-58shoroj487vum5oa0lgb8qa2fhr45q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Parking System</string>
+
+    <string-array name="warnaplat">
+        <item>Hitam Putih</item>
+        <item>Kuning Hitam</item>
+        <item>Merah Putih</item>
+        <item>Putih Merah</item>
+    </string-array>
+    <string name="title_activity_history_urama">HistoryUrama</string>
+    <string name="tab_text_1">Parkir 1</string>
+    <string name="tab_text_2">Parkir 2</string>
+    <string name="tab_text_3">Parkir 3</string>
+    <string name="tab_text_4">Parkir 4</string>
+    <string name="tab_text_5">Parkir 5</string>
+    <string name="tab_text_6">Parkir 6</string>
+    <string name="title_activity_history">history</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2075" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/drawable/add.xml" value="0.1735" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/drawable/back.xml" value="0.1735" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/drawable/car.xml" value="0.1735" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/drawable/carr.xml" value="0.1735" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/drawable/history.xml" value="0.1735" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/drawable/home.xml" value="0.1735" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.2075" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2075" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/drawable/info.xml" value="0.1735" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/drawable/radius.xml" value="0.1605" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/activity_crud.xml" value="0.2" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/activity_form_data1.xml" value="0.22" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/activity_hcctv.xml" value="0.2" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/activity_history.xml" value="0.22" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/activity_history_laporan.xml" value="0.2" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/activity_history_laporan2.xml" value="0.2" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/activity_history_laporan3.xml" value="0.1859375" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/activity_history_laporan4.xml" value="0.2" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/activity_history_laporan5.xml" value="0.2" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/activity_history_laporan6.xml" value="0.1859375" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/activity_history_urama.xml" value="0.12545289855072464" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/activity_lihat_kondisi.xml" value="0.22" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/activity_menucoba.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/activity_riwayat_data.xml" value="0.2" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/activity_riwayat_laporan1.xml" value="0.2" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/activity_slot_parkir.xml" value="0.25" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/form_datakendaraan.xml" value="0.33" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/formdatakendaraan.xml" value="0.2535211267605634" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/forminputdata.xml" value="0.2" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/fragment_history.xml" value="0.25" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/fragment_history_urama.xml" value="0.12545289855072464" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/fragment_main.xml" value="0.12545289855072464" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/fragment_parkir1.xml" value="0.2" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/fragment_parkir2.xml" value="0.2" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/fragment_parkir3.xml" value="0.1859375" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/fragment_parkir5.xml" value="0.1859375" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/history.xml" value="0.22" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/input_datasatu.xml" value="0.33" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/layout_item.xml" value="0.23357664233576642" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/layout_itemdata1.xml" value="0.25" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/layout/rvlist.xml" value="0.25" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/mipmap-anydpi-v26/logo.xml" value="0.1755" />
+        <entry key="..\:/Users/MAY49/AndroidStudioProjects/systemParking/app/src/main/res/mipmap-anydpi-v26/logo_round.xml" value="0.1755" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
